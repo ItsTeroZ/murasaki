@@ -777,7 +777,7 @@ function library:Introduction()
     murasaki.BackgroundTransparency = 1.000
     murasaki.Size = UDim2.new(0, 80, 0, 21)
     murasaki.Font = Enum.Font.Code
-    murasaki.Text = "powered by murasaki"
+    murasaki.Text = "murasaki hub"
     murasaki.TextColor3 = Color3.fromRGB(124, 124, 124)
     murasaki.TextSize = 10.000
     murasaki.TextTransparency = 1
